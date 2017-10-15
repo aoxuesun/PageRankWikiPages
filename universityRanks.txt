@@ -1,0 +1,100 @@
+Harvard University	70.82835076502437
+Cornell University	59.2809332056528
+Yale University	47.912160731592415
+Stanford University	47.09887265487595
+University of Michigan	43.14145773573241
+University of Chicago	38.06223960444418
+Princeton University	37.726402480430025
+University of Oxford	37.64799328893612
+New York University	32.02159301043906
+University of California, Berkeley	30.3371112935006
+University of Toronto	28.925991474421313
+University of Florida	26.762135738755507
+Ohio State University	26.159210893016752
+University of Minnesota	23.392910629433697
+University of Virginia	22.58794140836438
+University of Washington	21.807867727591173
+University of Wisconsin-Madison	20.088351732292107
+Northwestern University	19.840879449096864
+Duke University	19.824869362828764
+University of Texas at Austin	17.322705891389464
+Michigan State University	16.338880191873105
+McGill University	15.362854052592525
+University of Maryland, College Park	15.313707216421504
+Purdue University	14.849348476095376
+University of Edinburgh	14.690482730876214
+University College London	13.354101717405472
+University of California, Los Angeles	12.611477262737342
+Carnegie Mellon University	11.849048250144437
+Pennsylvania State University	11.114580091871185
+University of British Columbia	10.491885738560692
+Australian National University	10.20364724934072
+University of Glasgow	9.435551343377844
+King's College London	9.02436496792011
+Vanderbilt University	8.638131740618942
+University of California, Irvine	8.061354099158626
+University of Vienna	7.889230724286096
+University of Oslo	7.461803724772628
+University of Alberta	7.440378161073884
+California Institute of Technology	6.57658699545289
+Monash University	6.399306610884524
+University of California, San Diego	6.341094440039073
+University of Bristol	6.223944569881611
+University of Copenhagen	5.988915765341388
+University of Rochester	5.965779108468177
+University of Waterloo	5.821625102684519
+University of Birmingham	5.729976567457487
+Durham University	5.4190873628216805
+University of Leeds	5.407608680340373
+Imperial College London	5.28365778654821
+Washington University in St. Louis	5.264293488022206
+University College Dublin	5.25894442781245
+University of California, Davis	4.9595450953099105
+University of Aberdeen	4.844850256027218
+University of St Andrews	4.771313787201313
+University of York	4.748080815274995
+McMaster University	4.566254878165305
+Hebrew University of Jerusalem	4.286507032394658
+Case Western Reserve University	4.227774900435885
+University of Exeter	4.178322954895928
+University of Calgary	4.1485783341503915
+University of Southampton	4.101054211125573
+University of Otago	4.057967217592603
+Tel Aviv University	3.9238137380040183
+Newcastle University	3.869213437694449
+University of Helsinki	3.844193079580921
+University of Cape Town	3.6426398135387195
+Cardiff University	3.628422428182107
+University of Sussex	3.5102786785167055
+National University of Singapore	3.409072728941244
+Lund University	3.196623939130211
+University of Hong Kong	3.14488808467481
+Leiden University	3.1046433776981734
+Tsinghua University	3.104448442319569
+Keio University	3.069712020197759
+Kyoto University	2.9804265682368403
+University of Bologna	2.904804654963566
+Zhejiang University	2.7652497844518367
+Peking University	2.585718175514732
+Lancaster University	2.567054115238445
+Queen Mary, University of London	2.529605874024419
+University of Hamburg	2.475421788803214
+University of Zurich	2.4490902168493824
+University of Geneva	2.443559228132241
+Stockholm University	2.4384814440567384
+University of Bergen	2.248372503576144
+University of Groningen	2.042583444362997
+National Taiwan University	1.9746829424607688
+University of Bath	1.9549065423576208
+Delft University of Technology	1.8510746748758113
+University of Basel	1.8047308416937855
+Vrije Universiteit Brussel	1.6185216729879714
+Radboud University Nijmegen	1.5486871919230683
+Nanjing University	1.4927126636186172
+Yonsei University	1.4349959563730081
+University of Barcelona	1.4135058586608178
+Korea University	1.2565842880285067
+Osaka University	1.2520380390212373
+Chalmers University of Technology	1.2445706503037801
+Fudan University	1.1944525613399435
+Ghent University	1.1903334028009136
